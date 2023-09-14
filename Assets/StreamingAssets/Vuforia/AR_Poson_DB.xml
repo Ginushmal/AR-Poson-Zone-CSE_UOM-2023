@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig>
+  <Tracking>
+    <ImageTarget name="Banner" size="1.000000 1.500000" />
+    <ImageTarget name="StupaTabledeco" size="1.000000 1.000000" />
+    <ImageTarget name="HoloLantTableDeco" size="1.000000 1.000000" />
+    <ImageTarget name="SkyLantTableDeco" size="1.000000 1.000000" />
+  </Tracking>
+</QCARConfig>
