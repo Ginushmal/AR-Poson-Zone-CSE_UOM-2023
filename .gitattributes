@@ -1,2 +1,6 @@
 # Auto detect text files and perform LF normalization
 * text=auto
+<<<<<<< HEAD
+git lfs track "*.tgz"
+=======
+>>>>>>> parent of 4743cb3 (All files)
