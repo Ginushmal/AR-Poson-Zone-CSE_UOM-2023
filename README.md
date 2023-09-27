@@ -52,7 +52,7 @@ To use the app, simply follow these instructions:
 ## Contributors
 
 - [Your Name](https://github.com/yourusername) (Creator)
-- [Dushan](https://github.com/dushanusername) (Contributed by modeling 2 Vesak lanterns)
+- [Dushan Rashmika](https://github.com/dushanusername) (Contributed by modelling 2 Vesak lanterns , and help with unity)
 
 ## License
 
