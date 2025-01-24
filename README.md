@@ -52,8 +52,8 @@ To use the app, simply follow these instructions:
 
 ## Contributors
 
-- [Ginushmal Wikumjith](https://github.com/yourusername) (Creator)
-- [Dushan Rashmika](https://github.com/dushanusername) (Contributed to modeling 2 Vesak lanterns and provided Unity assistance)
+- [Ginushmal Wikumjith](https://github.com/Ginushmal) (Creator)
+- [Dushan Rashmika](https://github.com/RashmikaDushan/RashmikaDushan) (Contributed to modeling 2 Vesak lanterns and provided Unity assistance)
 
 ## License
 
