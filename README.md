@@ -55,9 +55,6 @@ To use the app, simply follow these instructions:
 - [Ginushmal Wikumjith](https://github.com/Ginushmal) (Creator)
 - [Dushan Rashmika](https://github.com/RashmikaDushan/RashmikaDushan) (Contributed to modeling 2 Vesak lanterns and provided Unity assistance)
 
-## License
-
-This project is licensed under the [MIT License](LICENSE) - see the [LICENSE](LICENSE) file for details.
 
 ## Play Store Link
 
