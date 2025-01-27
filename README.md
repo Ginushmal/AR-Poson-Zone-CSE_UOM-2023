@@ -23,18 +23,22 @@ I created each 3D model and animation for the app from scratch. I also developed
 - Stunning 3D Vesak lanterns.
 - Immersive Mihinthalaya interactive AR experience.
 - User-friendly interface.
+  
+## Watch the Video
+
+[![Watch on YouTube](https://i.ytimg.com/vi/WTxun9uslpw/maxresdefault.jpg)](https://youtube.com/shorts/WTxun9uslpw)
+
+
 
 ### Table Decorations
 
 <img src="https://github.com/Ginushmal/AR-Poson-Zone-CSE_UOM-2023/blob/bc600a470d0e431f2671a6b58c71ab1ebd5be2bf/Samples/Screenshot_20230605_221343_AR-Poson%20CSE.jpg" width="200" /> <img src="https://github.com/Ginushmal/AR-Poson-Zone-CSE_UOM-2023/blob/bc600a470d0e431f2671a6b58c71ab1ebd5be2bf/Samples/Screenshot_20230605_221352_AR-Poson%20CSE.jpg" width="200" /> <img src="https://github.com/Ginushmal/AR-Poson-Zone-CSE_UOM-2023/blob/5eca5e609f7395a3a3857beb20adbe7c63c68de4/Samples/VideoCapture_20230927-104801.jpg" width="200" />
 
-[Watch Video Demo](https://github.com/Ginushmal/AR-Poson-Zone-CSE_UOM-2023/blob/5eca5e609f7395a3a3857beb20adbe7c63c68de4/Samples/lv_0_20230927105336.mp4)
 
 ### AR Lanterns and Mihinthalaya
 
 <img src="https://github.com/Ginushmal/AR-Poson-Zone-CSE_UOM-2023/blob/5eca5e609f7395a3a3857beb20adbe7c63c68de4/Samples/Screen_Recording_20230606_184912_AR-Poson%20CSE.mp4_20230927_192359.525.jpg" width="200" /> <img src="https://github.com/Ginushmal/AR-Poson-Zone-CSE_UOM-2023/blob/5eca5e609f7395a3a3857beb20adbe7c63c68de4/Samples/Screen_Recording_20230606_185224_AR-Poson%20CSE.mp4_20230927_192450.986.jpg" width="200" />
 
-[Watch Video Demo 1](https://github.com/Ginushmal/AR-Poson-Zone-CSE_UOM-2023/blob/5eca5e609f7395a3a3857beb20adbe7c63c68de4/Samples/Screen_Recording_20230606_184912_AR-Poson%20CSE.mp4) | [Watch Video Demo 2](https://github.com/Ginushmal/AR-Poson-Zone-CSE_UOM-2023/blob/5eca5e609f7395a3a3857beb20adbe7c63c68de4/Samples/Screen_Recording_20230606_185224_AR-Poson%20CSE.mp4)
 
 ## Installation
 
